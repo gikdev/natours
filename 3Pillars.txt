@@ -1,0 +1,21 @@
+- RWD
+  - Fluid Layouts
+  - Media Queries
+  - Responsive Images
+  - Correct Units
+  - Desktop-first vs. mobile-first
+- Maintainable & scalable code
+  - Clean
+  - Easy-to-understand
+  - Growth
+  - Reusable
+  - How to organize files
+  - How to name classes
+  - How to structure HTML
+- Web Performance
+  - Less HTTP Requests
+  - Less code
+  - Compress Code
+  - Use a CSS preprocessor
+  - Less images
+  - Compress images
